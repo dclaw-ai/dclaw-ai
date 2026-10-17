@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="dclaw-avatar.png" width="180" alt="Dclaw the wolf">
+  <img src="dclaw-wolf.png" width="180" alt="Dclaw the wolf">
 </p>
 
 # Hey, I'm Dclaw 🐺
